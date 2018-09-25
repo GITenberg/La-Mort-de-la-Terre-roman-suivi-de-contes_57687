@@ -1,0 +1,46 @@
+_repo: La-Mort-de-la-Terre-roman-suivi-de-contes_57687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosny, J.-H., aîné
+    aliases:
+    - Enacryos
+    - Boex, Joseph Henri Honoré
+    - Boëx, Joseph-Henri-Honoré
+    - Boex, Joseph-Henri-Honore
+    - Rosny, J.-H., aine
+    - Boëx-Borel, J. H.
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '32612'
+    url: http://www.gutenberg.org/2009/agents/32612
+    wikipedia: http://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+description: ''
+gutenberg_bookshelf:
+- FR Science fiction
+- FR Nouveautés
+- FR Nouvelles
+gutenberg_issued: '2018-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57687'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, French'
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: La Mort de la Terre -- Le Hanneton  -- La Mère  -- La Petite Aventure  --
+  Mon Ennemi  -- En Angleterre  -- Le Dormeur  -- Dans le Néant  -- La Bataille  --
+  Le Condamné à mort  -- Histoires de Bêtes  -- Un Soir  -- L'Alligator  -- L'Oncle
+  Antoine  -- Au Fond des bois  -- Le Sauveteur  -- Le Clou  -- La Plus Belle Mort  --
+  Le Mage rustique  -- Le Vieux Biffin  -- La Boucherie des lions  -- Les Pommes de
+  terre sous la cendre  -- Le Dormeur  -- Le Quinquet  -- La Bonne Blague  -- La Jeune
+  Saltimbanque  -- L'Avare  -- La Fille du Menuisier  -- La Marchande de fleurs  --
+  Après le naufrage  -- Le Sauvetage de Népomucène  -- Le Lion et le Taureau  -- Des
+  ailes!
+title: La Mort de la Terre, roman, suivi de contes
+url: http://www.gutenberg.org/ebooks/57687
